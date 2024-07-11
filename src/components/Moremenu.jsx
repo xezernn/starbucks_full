@@ -11,7 +11,7 @@ function Moremenu() {
     let prevtype = null
 
     useEffect(() => {
-        fetch('https://faridmsta.github.io/starbucksjson/db.json')
+        fetch('../../data/db.json')
             .then(res => res.json())
             .then(res => {
                 setData(res.menu);

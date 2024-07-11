@@ -23,7 +23,7 @@ function Gift() {
 
   }, [location]);
   useEffect(() => {
-    fetch('https://faridmsta.github.io/starbucksjson/db.json')
+    fetch('../../data/db.json')
       .then(res => res.json())
       .then(res => setdata(res.gift))
   }, [])
