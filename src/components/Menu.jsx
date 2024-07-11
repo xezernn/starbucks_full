@@ -25,7 +25,7 @@ function Menu() {
     if (loading) {
         return (
             <div className='Loading'>
-                <img src="./src/components/img/loading.png" alt="" />
+                <img src="/img/loading.png" alt="" />
             </div>);
     }
     return (
