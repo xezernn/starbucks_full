@@ -75,7 +75,7 @@ function Menu() {
                                             {data[itm]?.map((item, index) => {
                                                 return (
                                                     <Link to={`/menu/${itm}/${item.name}`} key={index}>
-                                                        <img src={item.img} alt="" />
+                                                        <img src={"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211210_MochaCookieCrumbleFrapp.jpg?impolicy=1by1_tight_288"} alt="" />
                                                         <h3>{item.name}</h3>
                                                     </Link>
                                                 )

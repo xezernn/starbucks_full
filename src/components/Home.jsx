@@ -25,7 +25,7 @@ function Home() {
                             {data?.map((item, index) => {
                                 return (
                                     <div key={index}  className="hCard">
-                                        <img src={item.img} alt="" />
+                                        <img src={"https://globalassets.starbucks.com/digitalassets/cards/fy24/FriendsBuyCoffeeFY24.png"} alt="" />
                                         <div className="cardInfo" style={{ background: `${item.bgcolor}`, color: `${item.txtcolor}` }} >
                                             <h2>{item.headtext}</h2>
                                             <p>{item.text}</p>

@@ -45,7 +45,7 @@ function Gift() {
                   className="mySwiper"
                 >
                   {data?.featured?.map((item) =>
-                    <SwiperSlide><Link><img src={`${item.img}`} alt="" /></Link></SwiperSlide>
+                    <SwiperSlide><Link><img src={`https://globalassets.starbucks.com/digitalassets/cards/fy24/FriendsBuyCoffeeFY24.png`} alt="" /></Link></SwiperSlide>
                   )}
 
                 </Swiper>
@@ -85,7 +85,7 @@ function Gift() {
                   className="mySwiper"
                 >
                   {data?.lunaryear?.map((item) =>
-                    <SwiperSlide ><Link ><img src={`${item.img}`} alt="" /></Link></SwiperSlide>
+                    <SwiperSlide ><Link ><img src={`https://globalassets.starbucks.com/digitalassets/cards/fy24/FriendsBuyCoffeeFY24.png`} alt="" /></Link></SwiperSlide>
                   )}
 
                 </Swiper>
@@ -103,7 +103,7 @@ function Gift() {
                   className="mySwiper"
                 >
                   {data?.winter?.map((item) =>
-                    <SwiperSlide><Link><img src={`${item.img}`} alt="" /></Link></SwiperSlide>
+                    <SwiperSlide><Link><img src={`https://globalassets.starbucks.com/digitalassets/cards/fy24/FriendsBuyCoffeeFY24.png`} alt="" /></Link></SwiperSlide>
                   )}
 
                 </Swiper>
@@ -121,7 +121,7 @@ function Gift() {
                   className="mySwiper"
                 >
                   {data?.celebration?.map((item) =>
-                    <SwiperSlide><Link><img src={`${item.img}`} alt="" /></Link></SwiperSlide>
+                    <SwiperSlide><Link><img src={`https://globalassets.starbucks.com/digitalassets/cards/fy24/FriendsBuyCoffeeFY24.png`} alt="" /></Link></SwiperSlide>
                   )}
 
                 </Swiper>
