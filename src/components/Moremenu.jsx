@@ -97,7 +97,7 @@ function Moremenu() {
                                                                 if(itm.type==type){
                                                                 return (
                                                                     <Link to={`/menu/${sec}/${item.name}/${itm.name}`} key={nanoid()}>
-                                                                        <img src={itm.img} alt="" />
+                                                                        <img src={"https://globalassets.starbucks.com/digitalassets/products/bev/SBX20211210_MochaCookieCrumbleFrapp.jpg?impolicy=1by1_tight_288"} alt="" />
                                                                         <h3>{itm.name}</h3>
                                                                     </Link>
                                                                 );}
