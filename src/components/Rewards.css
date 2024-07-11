@@ -69,7 +69,7 @@ main {
 
 
 .freeCoffee {
-    background: url("./img/hero-mobile_2021.webp");
+    background: url("/img/hero-mobile_2021.webp");
     height: calc(100vh * 0.55);
     background-size: cover;
     background-position: bottom;
@@ -80,7 +80,7 @@ main {
     @media screen and (min-width:768px) {
         display: flex;
         justify-content: flex-start;
-        background: url(./img/xl-hero-desktop_2021.webp);
+        background: url(/img/xl-hero-desktop_2021.webp);
         background-color: rgb(212, 233, 226);
         background-position: 50% !important;
         background-size: auto 150% !important;
@@ -785,7 +785,7 @@ main {
     font-family: 'SoDo Sans';
 
     @media screen and (min-width:768px) {
-        background: url(./img/bggreentexture.webp);
+        background: url(/img/bggreentexture.webp);
         padding: 32px;
     }
 

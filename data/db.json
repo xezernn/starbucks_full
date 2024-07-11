@@ -2,7 +2,7 @@
   "home": [
     {
       "id": "1",
-      "img": "img/Himg1.png",
+      "img": "/img/Himg1.png",
       "headtext": "New Year, New Yays",
       "text": "Jump-start your year with a week full of offers in the Starbucks app.*",
       "bgcolor": "#bbf2d1",
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "img": "img/Himg2.png",
+      "img": "/img/Himg2.png",
       "headtext": "Pistachi-Yum",
       "text": "Creamy, cozy vibes make the Pistachio Latte a must-have this season.",
       "bgcolor": "#337481",
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "img": "img/Himg3.png",
+      "img": "/img/Himg3.png",
       "headtext": "Hey there, hazelnut",
       "text": "Say hello to our Hazelnut Oatmilk Shaken Espresso, a rich and layered pick-me-up.",
       "bgcolor": "#efabfc",
@@ -29,7 +29,7 @@
     },
     {
       "id": "4",
-      "img": "img/Himg4.png",
+      "img": "/img/Himg4.png",
       "headtext": "Savory and satisfying",
       "text": "Grab a subtly sweet Chicken, Maple Butter & Egg Sandwich on the way.",
       "bgcolor": "#a5c4dc",
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "img": "img/Himg5.png",
+      "img": "/img/Himg5.png",
       "headtext": "Send Starbucks Cards in Venmo",
       "text": "Send a little treat to someone you care about and brighten their day. You can now send Starbucks eGifts directly through Venmo.**",
       "bgcolor": "#d4e9e2",
@@ -51,7 +51,7 @@
       {
         "id": 1,
         "name": "Oleato™",
-        "img": "./../img/drink1.jpg",
+        "img": "./..//img/drink1.jpg",
         "more": [
           {
             "type": "null",
@@ -259,7 +259,7 @@
       {
         "id": 2,
         "name": "Hot Coffees",
-        "img": "./../img/drink2.jpg",
+        "img": "./..//img/drink2.jpg",
         "more": [
           {
             "type": "Americano",
@@ -671,7 +671,7 @@
       {
         "id": 3,
         "name": "Hot Teas",
-        "img": "./../img/drink3.jpg",
+        "img": "./..//img/drink3.jpg",
         "more": [
           {
             "type": "Chai Teas",
@@ -840,7 +840,7 @@
       {
         "id": 4,
         "name": "Hot Drinks",
-        "img": "./../img/drink4.jpg",
+        "img": "./..//img/drink4.jpg",
         "more": [
           {
             "type": "Hot Chocolates",
@@ -955,7 +955,7 @@
       {
         "id": 5,
         "name": "Frappuccino® Blended Beverages",
-        "img": "./../img/drink5.jpg",
+        "img": "./..//img/drink5.jpg",
         "more": [
           {
             "type": "Coffee Frappuccino®",
@@ -1070,7 +1070,7 @@
       {
         "id": 6,
         "name": "Cold Coffees",
-        "img": "./../img/drink6.jpg",
+        "img": "./..//img/drink6.jpg",
         "more": [
           {
             "type": "Cold Brews",
@@ -1320,7 +1320,7 @@
       {
         "id": 7,
         "name": "Iced Teas",
-        "img": "./../img/drink7.jpg",
+        "img": "./..//img/drink7.jpg",
         "more": [
           {
             "type": "Iced Black Teas",
@@ -1489,7 +1489,7 @@
       {
         "id": 8,
         "name": "Cold Drinks",
-        "img": "./../img/drink8.jpg",
+        "img": "./..//img/drink8.jpg",
         "more": [
           {
             "type": "Starbucks Refreshers™",
@@ -1606,7 +1606,7 @@
       {
         "id": 1,
         "name": "Hot Brealfast",
-        "img": "./../img/food1.jpg",
+        "img": "./..//img/food1.jpg",
         "more": [
           {
             "type": "Breakfast Sandwiches & Wraps",
@@ -1721,7 +1721,7 @@
       {
         "id": 2,
         "name": "Oatmeal & Yogurt",
-        "img": "./../img/food2.jpg",
+        "img": "./..//img/food2.jpg",
         "more": [
           {
             "type": "null",
@@ -1782,7 +1782,7 @@
       {
         "id": 3,
         "name": "Bakery",
-        "img": "./../img/food3.jpg",
+        "img": "./..//img/food3.jpg",
         "more": [
           {
             "type": "Bagels",
@@ -1978,7 +1978,7 @@
       {
         "id": 4,
         "name": "Lanch",
-        "img": "./../img/food4.jpg",
+        "img": "./..//img/food4.jpg",
         "more": [
           {
             "type": "Warm Sandwiches",
@@ -2039,7 +2039,7 @@
       {
         "id": 5,
         "name": "Snacks & Sweets",
-        "img": "./../img/food5.jpg",
+        "img": "./..//img/food5.jpg",
         "more": [
           {
             "type": "Biscotti & Cookies",
@@ -2237,7 +2237,7 @@
       {
         "id": 1,
         "name": "Whole Bean",
-        "img": "./../img/athome1.jpg",
+        "img": "./..//img/athome1.jpg",
         "more": [
           {
             "type": "null",
@@ -2433,7 +2433,7 @@
       {
         "id": 2,
         "name": "Ground",
-        "img": "./../img/athome2.jpg",
+        "img": "./..//img/athome2.jpg",
         "more": [
           {
             "type": "null",
@@ -2629,7 +2629,7 @@
       {
         "id": 3,
         "name": "VIA® Instant",
-        "img": "./../img/athome3.jpg",
+        "img": "./..//img/athome3.jpg",
         "more": [
           {
             "type": "null",
@@ -2827,7 +2827,7 @@
       {
         "id": 1,
         "name": "Cold Cups",
-        "img": "./../img/merch1.jpg",
+        "img": "./..//img/merch1.jpg",
         "more": [
           {
             "type": "null",
@@ -3023,7 +3023,7 @@
       {
         "id": 2,
         "name": "Tumblers",
-        "img": "./../img/merch2.jpg",
+        "img": "./..//img/merch2.jpg",
         "more": [
           {
             "type": "null",
@@ -3219,7 +3219,7 @@
       {
         "id": 3,
         "name": "Mugs",
-        "img": "./../img/merch3.jpg",
+        "img": "./..//img/merch3.jpg",
         "more": [
           {
             "type": "null",
@@ -3415,7 +3415,7 @@
       {
         "id": 4,
         "name": "Other",
-        "img": "./../img/merch4.jpg",
+        "img": "./..//img/merch4.jpg",
         "more": [
           {
             "type": "null",

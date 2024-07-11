@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import './Header.css'
 import { Link, NavLink, useLocation } from 'react-router-dom'
-import Logo from './img/Logo.png'
+import Logo from '/img/Logo.png'
 import { SiStarbucks } from "react-icons/si";
 import { FaLocationDot } from "react-icons/fa6";
 

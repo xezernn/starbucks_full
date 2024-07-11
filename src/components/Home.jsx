@@ -5,12 +5,13 @@ import './Home.css'
 
 
 
+
 function Home() {
     const [data, setData] = useState([])
     // https://raw.githubusercontent.com/faridmsta/starbucksjson/main/db.json
 
     useEffect(()=>{
-        fetch('https://faridmsta.github.io/starbucksjson/db.json')
+        fetch("../../data/db.json")
         .then(res => res.json())
         .then(res => setData(res.home) )
     },[])
